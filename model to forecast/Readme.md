@@ -4,5 +4,5 @@ In this folder, you will find all code allowing to train, display and test the f
 * In this [notebook](model_cnn_to_predict.ipynb), you will find the 1D CNN training.
 * In this [notebook](RNN_univariate_to_forecast.ipynb), you will find the univariate RNN training.
 * In this [notebook](prediction_power_lstm_multi.ipynb), you will find the multivariate RNN training upon decorrelated features data.
-* In this [notebook](prediction_power_lstm_multi.ipynb), you will find the multivariate RNN training upon Random forest regressor selected features data.
+* In this [notebook](https://github.com/alexphil12/Energy-forcasting-udla-fin/blob/main/grid-search%20optimisation/Optimization_of_hyperparameters.ipynb), you will find the multivariate RNN training upon Random forest regressor selected features data.
 * In this [notebook](prediction_power_lstm_iterate.ipynb), you will find the an univariate RNN training reitarate upon different train set coming from the big dataframe.
