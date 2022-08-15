@@ -3,4 +3,4 @@ In this filling method folder you will find:
 * To find the testing of all methods to fill the holes fo check this [notebook](./Test_remplissage_entrainement.ipynb)
 * To find some test and more detail about the statistics method used to fill go check this [notebook](./statistic_method_to_approximate.ipynb)
 * To find the code allowing to create the "grid-search" data-frame check this [notebook](./choice_of_model_to_fill.ipynb)
-* To find the comparison of training and predicte upon the dataframed "filled", check this [notebook]()
+* To find the comparison of training and predicte upon the dataframed "filled", check this [notebook](training_filled_comparison.ipynb)
