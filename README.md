@@ -2,10 +2,10 @@
 This projet aim to as suggested forcast energy comsumption for UDLA.
 It's divided into 4 mains part.
 
-*The data gathering and analysis
+* The [data gathering and analysis](./Data extraction)
 
-*the tests of method to fill and the comparisons of thoses methods.
+* The [tests of method to fill and the comparisons of thoses methods](./filling method)
 
-*The search of the optimals models to fill and to forcast.
+* The [search of the optimals models to fill and to forcast](./grid-search optimisation)
 
-*the tests of method to forcast and the comparisons of thoses methods.
+* The [tests of method to forcast and the comparisons of thoses methods](./model to forecast)
