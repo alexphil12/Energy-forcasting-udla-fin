@@ -4,8 +4,8 @@ It's divided into 4 mains part.
 
 * The [data gathering and analysis](https://github.com/alexphil12/Energy-forcasting-udla-fin/tree/main/Data%20extraction)
 
-* The [tests of method to fill and the comparisons of thoses methods](./filling method)
+* The [tests of method to fill and the comparisons of thoses methods](https://github.com/alexphil12/Energy-forcasting-udla-fin/tree/main/filling%20method)
 
 * The [search of the optimals models to fill and to forcast](./grid-search optimisation)
 
-* The [tests of method to forcast and the comparisons of thoses methods](./model to forecast)
+* The [tests of method to forcast and the comparisons of thoses methods](https://github.com/alexphil12/Energy-forcasting-udla-fin/tree/main/model%20to%20forecast)
