@@ -1,0 +1,15 @@
+{"num_filters": [64], "Kernal_size(s)": [4], "Activation": "relu", "pool_size(s)": [3], "Number of layers": 1, "MSE": 717258.3897326039, "MAE": 585.1572925225413, "RMSE": 846.9110872651296}
+{"num_filters": [64], "Kernal_size(s)": [4], "Activation": "elu", "pool_size(s)": [3], "Number of layers": 1, "MSE": 744863.4688903908, "MAE": 602.919019004262, "RMSE": 863.0547311094417}
+{"num_filters": [64], "Kernal_size(s)": [4], "Activation": "exponential", "pool_size(s)": [3], "Number of layers": 1, "MSE": 1080998.3609811277, "MAE": 791.4710616152756, "RMSE": 1039.710710236808}
+{"num_filters": [64], "Kernal_size(s)": [4], "Activation": "sigmoid", "pool_size(s)": [3], "Number of layers": 1, "MSE": 1077932.5156977847, "MAE": 785.2740513678606, "RMSE": 1038.2352891795697}
+{"num_filters": [64], "Kernal_size(s)": [4], "Activation": "tanh", "pool_size(s)": [3], "Number of layers": 1, "MSE": 723736.8461914794, "MAE": 591.5586370611, "RMSE": 850.7272454738236}
+{"num_filters": [64, 32], "Kernal_size(s)": [4, 3], "Activation": "relu", "pool_size(s)": [2, 2], "Number of layers": 2, "MSE": 694115.3162037147, "MAE": 584.5379023264402, "RMSE": 833.135832985063}
+{"num_filters": [64, 32], "Kernal_size(s)": [4, 3], "Activation": "elu", "pool_size(s)": [2, 2], "Number of layers": 2, "MSE": 782657.7323777935, "MAE": 624.6857354770586, "RMSE": 884.679451766454}
+{"num_filters": [64, 32], "Kernal_size(s)": [4, 3], "Activation": "exponential", "pool_size(s)": [2, 2], "Number of layers": 2, "MSE": 905340.129734917, "MAE": 692.4454441238921, "RMSE": 951.4936309481619}
+{"num_filters": [64, 32], "Kernal_size(s)": [4, 3], "Activation": "sigmoid", "pool_size(s)": [2, 2], "Number of layers": 2, "MSE": 844929.2772691181, "MAE": 670.4974655534526, "RMSE": 919.2003466432757}
+{"num_filters": [64, 32], "Kernal_size(s)": [4, 3], "Activation": "tanh", "pool_size(s)": [2, 2], "Number of layers": 2, "MSE": 689424.9368914817, "MAE": 564.2516511185993, "RMSE": 830.3161668253134}
+{"num_filters": [64, 32, 16], "Kernal_size(s)": [4, 3, 2], "Activation": "relu", "pool_size(s)": [2, 2, 1], "Number of layers": 3, "MSE": 703622.5371602287, "MAE": 587.0875539643341, "RMSE": 838.8221129418494}
+{"num_filters": [64, 32, 16], "Kernal_size(s)": [4, 3, 2], "Activation": "elu", "pool_size(s)": [2, 2, 1], "Number of layers": 3, "MSE": 712341.391692586, "MAE": 585.4708818546898, "RMSE": 844.0031941246348}
+{"num_filters": [64, 32, 16], "Kernal_size(s)": [4, 3, 2], "Activation": "exponential", "pool_size(s)": [2, 2, 1], "Number of layers": 3, "MSE": 2184800.3541152077, "MAE": 1120.1599830613766, "RMSE": 1478.1070171388835}
+{"num_filters": [64, 32, 16], "Kernal_size(s)": [4, 3, 2], "Activation": "sigmoid", "pool_size(s)": [2, 2, 1], "Number of layers": 3, "MSE": 896838.8054564731, "MAE": 687.9040853932022, "RMSE": 947.0157366466901}
+{"num_filters": [64, 32, 16], "Kernal_size(s)": [4, 3, 2], "Activation": "tanh", "pool_size(s)": [2, 2, 1], "Number of layers": 3, "MSE": 682458.0808683181, "MAE": 568.2476839764894, "RMSE": 826.1102110906983}
