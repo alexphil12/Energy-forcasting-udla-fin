@@ -1,6 +1,6 @@
 In this filling method folder you will find:
 * Some dataframe in form of .txt file containing the performance metric of the methods, the first one contain the performances for all method, distribution, max holes  and features. The features are the 10 best selected by the random forest regressor from this [file](https://github.com/alexphil12/Energy-forcasting-udla-fin/blob/main/grid-search%20optimisation/Optimization_of_hyperparameters.ipynb), you can find over detail on this [notebook](./choice_of_model_to_fill.ipynb). Concerning the more detailed one, it has the same structure but takes more holes sizes limit and only for 1 feature and distribution to have the MAPE graph more precisely.
-* To find the testing of all methods to fill the holes fo check this [notebook](./Test_remplissage_entrainement.ipynb)
+* To find the testing of all methods to fill the holes fo check this [notebook](./Test_remplissage_entrainement.ipynb) (=*)
 * To find some test and more detail about the statistics method used to fill go check this [notebook](./statistic_method_to_approximate.ipynb)
 * To find the code allowing to create the "grid-search" data-frame check this [notebook](./choice_of_model_to_fill.ipynb)
 * To find the comparison of training and predicte upon the dataframed "filled", check this [notebook](training_filled_comparison.ipynb)
